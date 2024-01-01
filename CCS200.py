@@ -6,8 +6,8 @@ A Python module for controlling the CCS200 Spectrometer.
 This module provides a class 'Spectrometer' with methods to interface with the CCS200 Spectrometer.
 It encapsulates the functionality required to initialize, control, and retrieve data from the spectrometer.
 
-Author: [Your Name]
-Date: [Creation Date]
+Author: Orkun Açar
+Date: 1.1.2024
 """
 
 from ctypes import *
